@@ -1,0 +1,23 @@
+{
+  "name": "caedence.net",
+  "version": "1.0.0",
+  "description": "Caedence's Blog Spot",
+  "main": "js/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unixmonkey/caedence.net.git"
+  },
+  "author": "Caedence Jones",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/unixmonkey/caedence.net/issues"
+  },
+  "homepage": "https://github.com/unixmonkey/caedence.net#readme",
+  "devDependencies": {
+    "http-server": "^0.9.0"
+  }
+}
